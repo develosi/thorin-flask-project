@@ -1,1 +1,1 @@
-# thorin-flask-project
+# thorin-flask-project (IN PROGRESS)
